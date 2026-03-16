@@ -1,10 +1,7 @@
 ---
-layout: default
-title: Privacy Policy - CSV to Map
+Privacy Policy: Last Updated
+CSV to Map: March 14, 2026
 ---
-
-Privacy Policy for CSV to Map
-Last Updated: March 14, 2026
 
 1. Introduction
 CSV to Map is designed to process your data locally. We do not collect, store, or "phone home" with any of the information contained in your CSV files or your physical location.
