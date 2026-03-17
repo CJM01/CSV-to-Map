@@ -1,9 +1,6 @@
-title: My Project Site
-description: A description for my sidebar
+title: CSV to Map
+description: Privacy Policy
 remote_theme: pages-themes/architect@v0.2.0
 
 plugins:
   - jekyll-remote-theme
-
-  title: CSV to MAp
-description: Privacy Policy
